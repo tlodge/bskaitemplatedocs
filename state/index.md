@@ -1,1 +1,3 @@
-# State page
+# State Management
+
+This is all about managing the relationship between your app's state and the user interface. Making sure that appropriate parts of the app render in response to particular changes in the state tree is non trivial and there are a couple of libraries that have been produced to help coders reason about the state of an app, debug, track, save and hydate, synchronise with the network and so on. The two most popular choices are [Mobx](https://mobx.js.org/README.html) and [Redux](https://redux.js.org/). We have gone with Redux as it has been around for longer, tends to be better suited to complex applications and has good integration with other core react native libraries. It has a steeper learning curve, and you need to put some thought into how you structure your code as the app grows, but it is a mature library, it is very well documented and well supported.
