@@ -5,7 +5,7 @@ This is a set of documentation that provides a full set of information on the Bl
 
 These documents are kept separate from the template code itself, in order that we can keep this public and our internal code private.  The documentation is split into the following sections:
 
-1. [Overview](/overview)
+1. [Overview](/overview/index.md)
 2. [State Management](/state)
 3. [Navigation](/navigation)
 4. [Network](/network)
